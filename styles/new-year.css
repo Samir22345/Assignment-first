@@ -365,14 +365,14 @@ button:hover {
 }
 
 .subscribe-section form input {
+    color:black;
     border-radius: 50px;
     width: 500px;
     text-align: center;
     border: none;
-    color:black;
     font-family: Inter;
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .subscribe-section form button {
